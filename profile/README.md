@@ -6,7 +6,7 @@
 
 | 저장소 | 소개 |
 |---|---|
-| [Pdf](https://github.com/Gridex-Workware/Pdf) | 브라우저 기반 PDF 편집기 |
+| [Pdf](https://github.com/Gridex-Workware/Pdf) · [사이트](https://gridex-workware.github.io/Pdf/) | 브라우저 기반 PDF 편집기 |
 | [Office](https://github.com/Gridex-Workware/Office) | Google 문서의 오프라인 편집·동기화 도구 |
 
 ## GRIDEX 조직 안내
